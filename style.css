@@ -17,4 +17,14 @@ margin-left: 50px;
 }
 .container-fluid{
     background-image: linear-gradient(#C1DEE8,#FBD9B9);
+   
+}
+.row{
+    padding-left: 20px;
+}
+.best{
+    padding-left: 20px;
+}
+.para{
+    padding-top: 40px;
 }
